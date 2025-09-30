@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Daniel+Alecrim%E2%9C%8C%F0%9F%8F%BE%F0%9F%94%A5!+;I+am+analyst+and+software+development++%F0%9F%92%BB%E2%9A%99%EF%B8%8F;Here+I+share+codes+and+learnings+%F0%9F%93%9A;Welcome%2C+let's+codar+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Daniel+Alecrim%E2%9C%8C%F0%9F%8F%BE%F0%9F%94%A5!+;I+am+analyst+and+software+development++%F0%9F%92%BB%E2%9A%99%EF%B8%8F;Here+I+share+codes+and+learnings+%F0%9F%93%9A;Welcome%2C+let's+codar+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ##
 
